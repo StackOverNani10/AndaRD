@@ -1,0 +1,13 @@
+<svg width="60" height="40" viewBox="0 0 60 40" xmlns="http://www.w3.org/2000/svg">
+  <!-- Fondo azul oficial de Visa -->
+  <rect width="60" height="40" rx="4" fill="#1A1F71"/>
+
+  <!-- Franja blanca característica -->
+  <rect x="0" y="28" width="60" height="12" rx="0" fill="white"/>
+
+  <!-- Texto VISA mejorado -->
+  <text x="30" y="19" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">VISA</text>
+
+  <!-- Detalle dorado sutil -->
+  <rect x="8" y="32" width="44" height="1" fill="#FFD700" opacity="0.3"/>
+</svg>

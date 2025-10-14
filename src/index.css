@@ -1,0 +1,49 @@
+/* Variables de color AndaRD */
+:root {
+  --verde-oscuro1: #0f713d;
+  --verde-oscuro2: #0c6a35;
+  --verde-oscuro3: #0e652f;
+  --naranja1: #fe7822;
+  --naranja2: #fe7019;
+  --blanco: #ffffff;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes slideUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fadeIn {
+  animation: fadeIn 0.3s ease-out;
+}
+
+.animate-slideUp {
+  animation: slideUp 0.4s ease-out;
+}
+
+.delay-1000 {
+  animation-delay: 1s;
+}
+
+html {
+  scroll-behavior: smooth;
+}

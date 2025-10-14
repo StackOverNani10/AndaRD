@@ -1,0 +1,15 @@
+<svg width="60" height="40" viewBox="0 0 60 40" xmlns="http://www.w3.org/2000/svg">
+  <!-- Fondo rojo característico de Mastercard -->
+  <rect width="60" height="40" rx="4" fill="#EB001B"/>
+
+  <!-- Círculos superpuestos mejorados -->
+  <circle cx="22" cy="20" r="11" fill="#F79E1B"/>
+  <circle cx="38" cy="20" r="11" fill="#FF5F00"/>
+
+  <!-- Intersección de círculos -->
+  <path d="M22 9c6.075 0 11 4.925 11 11s-4.925 11-11 11S11 26.075 11 20 15.925 9 22 9zm0 2C17.134 11 13 15.134 13 20s4.134 9 9 9 9-4.134 9-9-4.134-9-9-9z" fill="#EB001B"/>
+  <path d="M38 9c6.075 0 11 4.925 11 11s-4.925 11-11 11S27 26.075 27 20 31.925 9 38 9zm0 2C33.134 11 29 15.134 29 20s4.134 9 9 9 9-4.134 9-9-4.134-9-9-9z" fill="#EB001B"/>
+
+  <!-- Texto elegante -->
+  <text x="30" y="26" font-family="Arial, sans-serif" font-size="6" font-weight="bold" text-anchor="middle" fill="white">Mastercard</text>
+</svg>

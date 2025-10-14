@@ -1,0 +1,11 @@
+<svg width="60" height="40" viewBox="0 0 60 40" xmlns="http://www.w3.org/2000/svg">
+  <!-- Fondo azul característico de Amex -->
+  <rect width="60" height="40" rx="4" fill="#006FCF"/>
+
+  <!-- Texto AMERICAN EXPRESS -->
+  <text x="30" y="18" font-family="Arial, sans-serif" font-size="7" text-anchor="middle" fill="white" font-weight="bold">AMERICAN</text>
+  <text x="30" y="28" font-family="Arial, sans-serif" font-size="7" text-anchor="middle" fill="white" font-weight="bold">EXPRESS</text>
+
+  <!-- Línea horizontal decorativa -->
+  <rect x="8" y="32" width="44" height="1" fill="white" opacity="0.4"/>
+</svg>
